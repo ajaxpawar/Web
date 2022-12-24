@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    vertical-align: top;
+}
+.container{
+    background-color: rgb(10, 9, 9);
+    width: 100%;
+    height: 18em;
+    margin: 2px auto;
+    padding-top: 6px;
+}
+.center{
+    margin: 0px auto;
+    width: fit-content;
+    padding: 5px 10px;
+}
+.text-top{
+    font-size: 20px;
+    color: white;
+}
+.text-mid{
+    font-size: 68px;
+    font-weight: bold;
+    color: gray;
+}
+.text-bottom{
+    text-align: center;
+    font-size: 19px;
+    width: 60%;
+    line-height: 30px;
+    color: rgb(134, 120, 120);
+}
+.btn-buy{
+    margin-top: 20px;
+    font-size: 20px;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+}
