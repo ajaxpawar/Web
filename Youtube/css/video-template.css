@@ -1,0 +1,53 @@
+.serchbar{
+    display: block;
+}
+.thmbaile{
+    width: 100%;
+}
+.vidio-title{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+.video-author,.video-stats{
+
+    font-size: 12px;
+    color: gray;
+}
+.video-author{
+    margin-bottom: 5px;
+}
+
+.vidio-preview{
+
+}
+.vidio-info-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.chinal-picture{
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+}
+.videio-info{
+    display: inline-block;
+width: 200px;
+}
+.chinal-profile{
+    width: 40px;
+    border-radius: 40px;
+}
+.thumbail-row{
+    margin-bottom: 15px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
